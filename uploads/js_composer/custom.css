@@ -1,0 +1,13 @@
+.cleanse_wrapper .wpb_tab {
+    #border: 1px solid #000 !important;
+    padding: 0px 0px 0px 0px !important;
+}
+
+.cleanse_wrapper .woocommerce ul.products li.product {
+    padding: 0px 0px 0px 0px !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+.cleanse_wrapper .wpb_wrapper {
+    padding: 0 15px 0 15px !important;
+}

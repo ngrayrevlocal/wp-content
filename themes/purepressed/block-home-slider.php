@@ -1,0 +1,1 @@
+<?php echo do_shortcode( '[nivoslider id="51"]' ) ?>

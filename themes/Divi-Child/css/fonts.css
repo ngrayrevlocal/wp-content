@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'yesteryearregular';
+	src: url('../fonts/yesteryear-regular-webfont.eot');
+	src: url('../fonts/yesteryear-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/yesteryear-regular-webfont.woff2') format('woff2'),
+		url('../fonts/yesteryear-regular-webfont.woff') format('woff'),
+		url('../fonts/yesteryear-regular-webfont.ttf') format('truetype'),
+		url('../fonts/yesteryear-regular-webfont.svg#yesteryearregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'press_styleregular';
+	src: url('../fonts/press_style-webfont.eot');
+	src: url('../fonts/press_style-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/press_style-webfont.woff2') format('woff2'),
+		 url('../fonts/press_style-webfont.woff') format('woff'),
+		 url('../fonts/press_style-webfont.ttf') format('truetype'),
+		 url('../fonts/press_style-webfont.svg#press_styleregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
